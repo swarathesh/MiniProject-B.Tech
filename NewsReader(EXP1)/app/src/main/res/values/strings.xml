@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"><b>NewsReader</b></string>
+    <string name="action_settings">About</string>
+    <string name="neg"><b><i><u>CLOSE</u></i></b></string>
+</resources>
